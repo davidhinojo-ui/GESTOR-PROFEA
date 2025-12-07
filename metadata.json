@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gestor PROFEA Cádiz",
+  "description": "Aplicación para la supervisión de obras PROFEA, gestión documental y control de herramientas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
